@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: groufr.kata
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, http-client, java, java-application, junit, lombok, maven, mockito, netty-server, reactor, reactor-http-client, readme, serialization-jackson, shade, slf4j-simple, spring, spring-boot, spring-web, yaml]
